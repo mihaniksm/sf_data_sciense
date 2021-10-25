@@ -4,7 +4,7 @@ From the [SkillFactory Data Sciense Course](https://skillfactory.ry/data-scienti
 
 ## Projects
 
-* [Project 0.Game: predict number](https://github.com/mihaniksm/sf_data_sciense/project_0)
+* [Project 0.Game: predict number](https://github.com/mihaniksm/sf_data_sciense/tree/main/project_0)
 * [Project 1]()
 * [Project 2]()
 
