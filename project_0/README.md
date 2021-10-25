@@ -16,7 +16,7 @@
 ### Описание проекта
 Угадать заданное компьютером число за минимальное число попыток
 
-:arrow_up [к оглавлению](https://github.com/mihaniksm/sf_data_sciense/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/mihaniksm/sf_data_sciense/tree/main/project_0/README.md#Оглавление)
 
 ### Какой кейс решаем? 
 Нужно написать программу, которая угадывает число за минимальное число попыток
@@ -34,7 +34,7 @@
 ### Краткая информация о данных
 ....
 
-:arrow_up [к оглавлению](https://github.com/mihaniksm/sf_data_sciense/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/mihaniksm/sf_data_sciense/tree/main/project_0/README.md#Оглавление)
 
 ### Этапы работы над проектом
 
