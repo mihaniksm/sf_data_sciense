@@ -27,7 +27,7 @@ def score_count(random_predict) -> int:
     """Сколько в среднем угадывает  за 1000 попыток
 
     Args:
-        random_predict ([type]): Функция угадывагия
+        random_predict ([type]): Функция угадывания
 
     Returns:
         int: Средее количество попыток
