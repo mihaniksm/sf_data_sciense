@@ -1,17 +1,17 @@
 # Проект 3. Data Science Проект № 1
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/mihaniksm/sf_data_sciense/tree/main/project_3/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/mihaniksm/sf_data_sciense/tree/main/project_3/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/mihaniksm/sf_data_sciense/tree/main/project_3/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/mihaniksm/sf_data_sciense/tree/main/project_3/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/mihaniksm/sf_data_sciense/tree/main/project_3/README.md#Результат)    
+[6. Выводы](https://github.com/mihaniksm/sf_data_sciense/tree/main/project_3/README.md#Выводы) 
 
 ### Описание проекта    
 Настало время попробовать свои силы в реальном Data Science-проекте. Предстояло решить часть настоящей бизнес-задачи и примерить роль аналитика в компании HeadHunter.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/mihaniksm/sf_data_sciense/tree/main/project_3/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -40,7 +40,7 @@
 - GitHub не позволяет выложить в репозиторий датасет, размер которого превышает 25 Мб. Наш файл с данными весит более 450 Мб. Поэтому он был добавлен в .gitignore, чтобы сделать push проекта на GitHub. 
 - Файл базы тут: (https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/mihaniksm/sf_data_sciense/tree/main/project_3/README.md#Оглавление)
 
 ### Этапы работы над проектом  
 Работа проведена в пять этапов:
@@ -50,7 +50,7 @@
 - очистка данных
 - оформление GitHub и загрузка на него итогов
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/mihaniksm/sf_data_sciense/tree/main/project_3/README.md#Оглавление)
 
 ### Результаты:  
 - Код соответствует PEP8, воспроизводим.
@@ -58,7 +58,7 @@
 - Сопутствующие практические задания выполнены на 100%
 - GitHub оформлен соответствующим образом.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/mihaniksm/sf_data_sciense/tree/main/project_3/README.md#Оглавление)
 
 ### Выводы:  
 - Получен практический опыт проведения развндывательного анализа реальных данных
@@ -67,7 +67,7 @@
 - Закреплена базовая информация по оформлению GitHub
 - Закреплены знания и навыки по оформлению кода
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/mihaniksm/sf_data_sciense/tree/main/project_3/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
